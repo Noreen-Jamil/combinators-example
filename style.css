@@ -1,0 +1,30 @@
+body{
+                background-color: black;
+               
+
+               
+            }
+            article{
+                margin:20vw 25%;
+            }
+            i{
+                font-size: 50px;
+                color:white;
+            }
+           
+           div i{
+               color:#DC7633;
+               background-color: 
+            }
+            div{
+                display: inline-block;
+            }
+            span:hover i{
+                color:#8E44AD ;
+            }
+            span:hover ~ span>i{
+                color:#BFC9CA;
+            }
+            span:hover + span>i{
+                color:#BB8FCE ;
+            }
