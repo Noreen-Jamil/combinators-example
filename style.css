@@ -22,8 +22,8 @@ body{
             span:hover i{
                 color:#8E44AD ;
             }
-            span:hover ~ span>i{
-                color:#BFC9CA;
+           span:hover ~ span>i{
+                color:#808B96;
             }
             span:hover + span>i{
                 color:#BB8FCE ;
